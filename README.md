@@ -1,2 +1,2 @@
 # Jabberwocky
-Filament Changer Ready Toolhead
+ Multi-filamet optimized toolhead with cutter.
