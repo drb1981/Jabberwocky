@@ -1,2 +1,2 @@
 # Jabberwocky
- Multi-filamet optimized toolhead with cutter.
+ Multi-filament optimized toolhead with cutter.
