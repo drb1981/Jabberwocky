@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/00082253-d71c-47ff-8093-0419597f029a)# Jabberwocky
+# Jabberwocky
 
 ![Jabberwocky Render](https://github.com/kinematicdigit/Jabberwocky/blob/main/Images/JabberWocky_Render.png)
 
