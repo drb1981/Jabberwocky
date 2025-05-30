@@ -1,0 +1,12 @@
+##These are good starting values for AFC when using a Jabberwocky. Some minor tweaking may be necessary.##
+
+[AFC_extruder extruder]
+pin_tool_start: ^nhk:gpio3
+pin_tool_end: ^nhk:gpio13
+tool_stn: 27.23                    	# Distance from the toolhead sensor to the tip of the nozzle in mm.
+tool_stn_unload: 96.8            	# Unload distance for the toolhead in mm.
+tool_sensor_after_extruder: 0   	# Distance in mm.
+
+[gcode_macro _AFC_CUT_TIP_VARS]
+variable_retract_length: 21
+variable_pushback_length: 12.45    	# Distance in mm
