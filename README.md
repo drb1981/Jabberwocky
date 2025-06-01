@@ -16,6 +16,9 @@ For complete assembly instructions and additional technical details, please refe
 
 Kits will be available through LDO Motor's Vendor Channels. Check your favourite vendor for latest availability.
 
+
+For support, please visit this [link](https://discord.gg/MPZ4cHm9gm) and visit the Jabberwocky channels. 
+
 ---
 >**Acknowledgments and Thank You**
 >
