@@ -28,4 +28,4 @@ For support, please visit this [link](https://discord.gg/MPZ4cHm9gm) and visit t
 >
 >Terrance AKA kinematicdigit
 >
->Coffee fund donations are always welcome to help continue funding my efforts. [Click here](https://www.paypal.com/donate/?business=CXCABTX8BCAUY&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=CAD) to donate. Thank-you!
+Coffee fund donations are always welcome to help support my ongoing efforts. [Click here](https://www.paypal.com/donate/?business=CXCABTX8BCAUY&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=CAD) to donate. Thank-you!
