@@ -1,6 +1,6 @@
 Jabberwocky © 2025 by Terrance Lam is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-#Attribution-NonCommercial-ShareAlike 4.0 International#
+Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
 
